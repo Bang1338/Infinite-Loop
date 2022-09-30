@@ -1,0 +1,3 @@
+loop {
+    println!("Hello World!");
+}
