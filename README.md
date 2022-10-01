@@ -12,6 +12,9 @@ Infinite Loop
 A infinite loop for some programming language (or all)
 </h3>
 
+## Why?
+Because I love to, [Infinite Loop](https://en.wikipedia.org/wiki/Infinite_loop) is my hobby since I coded something in Batch.
+
 ## Languages:
 - Batch
 - C
@@ -35,7 +38,10 @@ A infinite loop for some programming language (or all)
 - Visual Basic (.NET or VB6)
 
 ## Running
-* Go find online IDE.
+* Go find online IDE and run it ;)
+
+## Contributing
+Right now, you have to join [Comic Studio Discord Server](https://discord.gg/UCtUShgZSc) or Discord: Bang1338#5701 to contributing, but temporary. I will update the way to contributing soon.
 
 ## Inspired from:
 - [Hello World all programming language](https://github.com/leachim6/hello-world)
