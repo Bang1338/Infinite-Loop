@@ -13,10 +13,6 @@ includelib \masm32\lib\masm32.lib
 .code 
     mov     eax, 0
 main:
-    add     eax,1   
-    push    eax
  invoke StdOut, addr h
-    pop     eax
-    cmp     eax, 4
     jne     main
 end main
