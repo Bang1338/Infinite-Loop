@@ -43,7 +43,7 @@ Because I love to, [Infinite Loop](https://en.wikipedia.org/wiki/Infinite_loop) 
 * Go find online IDE and run it ;)
 
 ## Contributing
-Right now, you have to join [Comic Studio Discord Server](https://discord.gg/UCtUShgZSc) or Discord: Bang1338#5701 to contributing, but temporary. I will update the way to contributing soon.
+Right now, you have to join [Comic Studio Discord Server](https://discord.gg/UCtUShgZSc) or [PRF Team](https://discord.gg/h3HE89hZAB) or Discord: Bang1338#5701 to contributing, but temporary. I will update the way to contributing soon.
 
 ## Inspired from:
 - [Hello World all programming language](https://github.com/leachim6/hello-world)
