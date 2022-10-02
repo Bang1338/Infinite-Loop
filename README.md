@@ -27,6 +27,8 @@ Because I love to, [Infinite Loop](https://en.wikipedia.org/wiki/Infinite_loop) 
 - Javascript
 - Kotlin
 - Lua
+- MASM32
+- Pascal
 - PHP
 - Perl
 - Python
@@ -46,6 +48,9 @@ Right now, you have to join [Comic Studio Discord Server](https://discord.gg/UCt
 ## Inspired from:
 - [Hello World all programming language](https://github.com/leachim6/hello-world)
 - My old classic loop writen in Batch
+
+## Requested:
+* [r0ger](https://github.com/r0ger888) - MASM32, Pascal (Delphi but i wasn't did it)
 
 ## You can use my code, but remember:
 <p align="center">
