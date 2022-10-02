@@ -11,7 +11,7 @@ includelib \masm32\lib\masm32.lib
  h db "Hello World!", 13,10,0
 
 .code 
-    mov     eax, 0
+
 main:
  invoke StdOut, addr h
     jne     main
